@@ -1,0 +1,7 @@
+u = untracked
+
+m = modified
+git log
+
+
+zmena v souboru
